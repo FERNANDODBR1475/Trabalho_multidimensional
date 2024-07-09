@@ -1,0 +1,54 @@
+* {
+  margin: 30px;
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #fb8c00;
+}
+
+body {
+  background: #485563;
+ 
+  background: -webkit-linear-gradient(to right, #29323c, #485563);
+ 
+  background: linear-gradient(to right, #29323c, #485563);
+  
+}
+
+table {
+  width: 100px;
+  border: 7px solid #485563;
+}
+
+tr td {
+  margin: 30px;
+  border-radius: 20px solid red;
+  padding: 30px;
+  font-size: 30px;
+  border: 7px solid #fb8c00;
+}
+
+.titulo {
+  border: 5px solid #485563;
+  border-radius: 12px ;
+}
+
+.titulo:hover {
+  border: 5px solid #fb8c00;
+  border-radius: 12px ;
+}
+tr td:hover {
+  border: 7px solid #4400dc;
+}
+h1{
+  margin: 30px;
+  padding: 15px;
+  font-size: 30px;
+}
+h1:hover {
+  color: #a7a7a7;
+}
+
+table:hover {
+  border: 7px solid #fb8c00;
+}
